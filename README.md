@@ -1,4 +1,4 @@
-Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://github.com/chisenoa/oreskis) which is probably better than MEE6, Tickets and Dyno, idk.
+My name is Alperen but everyone usually call me **Chisenoa**
 
 You can talk to me at [Discord](https://discord.gg/kQ8CE5GRNg).
 
