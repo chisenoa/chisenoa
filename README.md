@@ -2,8 +2,9 @@
   Hello there, I'm
   <a href = "https://twitter.com/chisenoa">Alperen</a>
   but everyone usually call me Chisenoa
+  <br>
+  You can talk to me at [Discord](https://discord.gg/9PNBMnVTZv)
 </h3>
-<style = "align:center;"> You can talk to me at [Discord](https://discord.gg/9PNBMnVTZv)</style>
 <p align = "center">
   <a href = "https://twitter.com/chisenoa" target = "_blank"><img alt = "followers" title = "Follow me on Twitter" src = "https://img.shields.io/twitter/follow/chisenoa?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href = "https://github.com/chisenoa" target = "_blank"><img alt = "followers" title = "Follow me on Github" src = "https://img.shields.io/github/followers/chisenoa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
