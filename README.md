@@ -1,7 +1,6 @@
 <h3 align = "center">
-  Hello there, I'm
-  <a href = "https://twitter.com/chisenoa">Alperen</a>
-  but everyone usually call me Chisenoa
+  You can talk me at
+  <a href = "https://discord.gg/9PNBMnVTZv">Discord</a>
   <br>
 </h3>
 <p align = "center">
