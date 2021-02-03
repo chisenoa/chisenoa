@@ -9,19 +9,10 @@
   <a href = "https://github.com/chisenoa" target = "_blank"><img alt = "followers" title = "Follow me on Github" src = "https://img.shields.io/github/followers/chisenoa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href = "https://github.com/chisenoa" target = "_blank"><img alt = "views" title = "Github views" src = "https://freshidea.com/jonah/app/ghpvc"/></a>
 </p>
-# 🔥 My contribution streak
-<p align = "center">
-    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=chisenoa&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-</p>
-<h3 align="center">
-  ⬇ Scroll down to see
-  <a href="https://github.com/chisenoa?tab=repositories">my repos</a>!
-  ⭐ Stars are appreciated!
-</h3>
-# 📊 GitHub Profile Stats
+## 📊 GitHub Profile Stats
 <br>
 <img alt = "Alperen's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=chisenoa&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117"/>
 <br>
-#💻 Most used languages
+## 💻 Most used languages
 <br>
 <img alt = "Alperen's Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chisenoa&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
