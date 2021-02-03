@@ -1,6 +1,7 @@
 <h3 align = "center">
-  You can talk me at
-  <a href = "https://discord.gg/9PNBMnVTZv">Discord</a>
+  You can visit my
+  <a href = "https://chisenoa.github.io">website</a>
+  for more detailed information about me
   <br>
 </h3>
 <p align = "center">
