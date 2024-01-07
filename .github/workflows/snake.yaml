@@ -1,6 +1,8 @@
 name: Generate Snake
 
 on:
+  schedule:
+    - cron: "29 12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,16 +18,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/only-svg/github-contribution-grid-snake.svg
-
-      - name: ensure the generated file exists
-        run: |
-          ls dist
-          test -f dist/only-svg/github-contribution-grid-snake.svg
-          test -f dist/only-svg/github-contribution-grid-snake-dark.svg
-
-          test -f dist/docker/github-contribution-grid-snake.svg
-          test -f dist/docker/github-contribution-grid-snake-dark.svg
-          test -f dist/docker/github-contribution-grid-snake.gif
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
