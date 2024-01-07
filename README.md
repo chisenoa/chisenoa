@@ -28,4 +28,4 @@
 | ------------- | ------------- |
 
 #### My Contributions Last Year
-![Snake](https://github.com/chisenoa/chisenoa/blob/output/github-contribution-grid-snake.svg)
+![Github Contribution Graph](https://github.com/chisenoa/chisenoa/blob/output/github-contribution-grid-snake.svg)
