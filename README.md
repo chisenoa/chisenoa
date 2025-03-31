@@ -12,7 +12,7 @@
 
 <br/>
 
-<img width="60%" src="https://i.hizliresim.com/BKuzRL.png">
+<img width="60%" src="BKuzRL.png">
 
 #### GitHub Stats
 
